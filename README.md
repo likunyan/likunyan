@@ -28,8 +28,13 @@ I am currently studying Laravel and React <img src="https://media.giphy.com/medi
 
 - Others
 
-| HTML | JavaScript | CSS | Yarn | Composer | Material-UI | Nginx | MySQL | Ubuntu | Redis | PhpStorm | Markdown | macOS | Beyond Compare | Charles | Postman |SketchBook | Chrome | HomeBrew | oh my zsh | iCloud |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| HTML | JavaScript | CSS | Yarn | Composer | Material-UI | Nginx | MySQL | Ubuntu | Redis | Jenkins | PhpStorm | Markdown | macOS | Beyond Compare | Charles | Postman |SketchBook | Chrome | HomeBrew | oh my zsh | iCloud | Ngrok | MineCraft PC Server |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+
+### Like
+
+| Nicolas Cage | Michael Jackson | Aragaki Yui | Music | OverWath(Blizzard) | 宮﨑 駿 | The Legend of Zelda | Summer Triangle |
+|---|---|---|---|---|---|---|---|
 
 ### GitGub Stats
 
