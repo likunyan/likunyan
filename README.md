@@ -1,6 +1,6 @@
 ### Hi, I'm Kunyan Lee! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-<img align='right' src="https://camo.githubusercontent.com/1256f8b9a2509fbad8f65a76ceaa2c356ff0d1ab/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966" width="230">
+<img align='right' src="https://camo.githubusercontent.com/1256f8b9a2509fbad8f65a76ceaa2c356ff0d1ab/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966">
 <p><em>PHP Programmer <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>My Homepage: <a href="https://kunyan.li">Lee world</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
