@@ -4,26 +4,32 @@
 <p><em>PHP Programmer <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>My Homepage: <a href="https://kunyan.li">Lee world</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>我喜欢结队编程，如果你也是，我很高兴我们能够一起扬起友谊的<del>🚢大船</del>小船，扬风起航</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I like group programming, if you are too, I am very happy that we can lift the friendship <del>🚢big ship</del> boat together and set sail.</em>
 
-我目前正在学习 Laravel + React <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
+I am currently studying Laravel and React <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
 
 ### Programming Languages 🌐
 
-- Know/Using
-
-
 - Learning
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-|---|
-
-### Tools 🛠️
-
-- Know/Using
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="php logo" width="24"> |
+|---|---|
 
 
-- Learning
+- like / used
+
+| Canvas / Three.js | WebSocket | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="24"> |
+|---|---|---|
+
+- Maybe to
+
+| Laravel framework source code | PHP source code | C | LeetCode |
+|---|---|---|---|
+
+- Others
+
+| HTML | JavaScript | CSS | Yarn | Composer | Material-UI | Nginx | MySQL | Ubuntu | Redis | PhpStorm | Markdown | macOS | Beyond Compare | Charles | Postman |SketchBook | Chrome | HomeBrew | oh my zsh | iCloud |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ### GitGub Stats
 
