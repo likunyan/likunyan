@@ -39,3 +39,6 @@ I am currently studying Laravel and React <img src="https://media.giphy.com/medi
 ### GitGub Stats
 
 ![likunyan's github stats](https://github-readme-stats.vercel.app/api?username=likunyan&show_icons=true&line_height=30)
+
+ <!-- waka-box start -->
+ <!-- waka-box end -->
